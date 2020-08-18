@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.forezp.atlasplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.forezp.atlasplugin.MyBundle
 
 class MyApplicationService {
 
